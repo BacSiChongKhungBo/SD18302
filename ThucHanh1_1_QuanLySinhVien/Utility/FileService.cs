@@ -21,22 +21,29 @@ namespace ThucHanh1_1_QuanLySinhVien.Utility
             {
                 //File.Delete(fpath);
                 // Vì file tồn tại rồi nên ko cần create nữa
-                File.AppendAllText(fpath, sv.InThongTin());
+                using (FileStream fs = File.Open(fpath, FileMode.Append))
+                {
+                    AddTexttoFile(fs, sv.InThongTin());
+                }
+            }
+            else //nếu chưa có file thì tạo và addtext vào
+            {
+                using (FileStream fs = File.Create(fpath))
+                {
+                    AddTexttoFile(fs, sv.InThongTin());
+                }
             }
 
             //tạo file mới và đưa dữ liệu vào file
             // sử dụng using
             // FileStream trong system.IO
-            //using (FileStream fs = File.Create(fpath))
-            //{
-            //    AddTexttoFile(fs, sv.InThongTin());
-            //    AddTexttoFile(fs, "\n\r");
-            //}
+            
         }
 
         //Đưa dữ liệu vào trong file
         private static void AddTexttoFile(FileStream fs, string content)
         {
+            content = content + "\n";
             //cung cấp thông tin cho chương trình
             byte[] info = new UTF8Encoding(true).GetBytes(content);
             // Sau khi cung cấp thông tin dữ liệu cho chương trình

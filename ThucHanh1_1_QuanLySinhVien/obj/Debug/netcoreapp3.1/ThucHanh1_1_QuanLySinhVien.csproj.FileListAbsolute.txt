@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.exe
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.deps.json
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.runtimeconfig.json
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.dll
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\bin\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.pdb
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.dll
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.pdb
+C:\Users\Admin\source\repos\SD18302\ThucHanh1_1_QuanLySinhVien\obj\Debug\netcoreapp3.1\ThucHanh1_1_QuanLySinhVien.genruntimeconfig.cache
